@@ -10,20 +10,14 @@
 4.解决了在1126上使用egien库时，部分矩阵转置操作会报数据未对齐的问题
 ****
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 RV1126_Yolov5_DeepSORT是基于瑞芯微Rockchip Neural Network(RKNN)开发的目标跟踪部署仓库，Deepsort算法在rv1126上进行了测试。
 
 下面是在1126上读取视频进行跟踪的结果
 
 <div align="center">
-  <img src="https://github.com/Zhou-sx/yolov5_Deepsort_rknn/blob/deepsort/detect.gif" width="45%" />&emsp; &emsp;<img src="https://github.com/Zhou-sx/yolov5_Deepsort_rknn/blob/deepsort/deepsort.gif" width="45%" />
+  <img src="https://github.com/dogewu/rv1126_YolovV5_Deepsort//test_results4.gif" width="45%" />
   <br/>
-  <font size=5>Detect</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <font size=5>DeepSORT</font>
+  <font size=5>deepsort</font>
   <br/>
 </div>
 
