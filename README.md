@@ -83,7 +83,7 @@ RV1126_Yolov5_DeepSORT是基于瑞芯微Rockchip Neural Network(RKNN)开发的�
   Torchreid
   https://kaiyangzhou.github.io/deep-person-reid/MODEL_ZOO
   ```
-  如果需要把对应的pytorch模型文件转为onnx，请关注https://github.com/KaiyangZhou/deep-person-reid该链接。
+  如果需要把对应的pytorch模型文件转为onnx，请关注该链接https://github.com/KaiyangZhou/deep-person-reid。
 
 ## 性能测试
 综合来看在rv1126上进行检测加跟踪，处理一帧视频的平均时间为1s左右，无法做到实时处理。
@@ -97,4 +97,4 @@ RV1126_Yolov5_DeepSORT是基于瑞芯微Rockchip Neural Network(RKNN)开发的�
 5. https://github.com/KaiyangZhou/deep-person-reid
 6. https://github.com/Zhou-sx/yolov5_Deepsort_rknn
 
-最后感谢Zhou-sx的代码，我只是进行了一些改动
+最后感谢Zhou-sx大佬的代码，我只是进行了一些改动
